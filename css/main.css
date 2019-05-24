@@ -201,8 +201,8 @@ main {
   margin-top: 1rem; }
   .boxes div {
     font-size: 1.5rem;
-    border: 3px #fff solid;
-    padding: 1.5rem 2.5rem;
+    border: 2px #fff solid;
+    padding: 1.5rem 2.0rem;
     margin-bottom: 3rem;
     transition: all 0.5s ease-out; }
     .boxes div:hover {
